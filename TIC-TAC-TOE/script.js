@@ -76,7 +76,14 @@ function startGamePlayer() {
 }
 
 function fillBotGame() {
+    if (!notWin) {
+        if (turn == 1) {
 
+            turn;
+        } else {
+
+        }
+    }
 }
 
 function botStart() {
